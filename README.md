@@ -1,4 +1,6 @@
 # Amazon_Data_Model
+![Data_model_Amazon](https://github.com/user-attachments/assets/5323f903-bf81-4cc2-80c2-3456e3fe7621)
+
 ## Project Overview
 
 **Amazon_Data_Model**: Amazon Sales Dataset Data Model
